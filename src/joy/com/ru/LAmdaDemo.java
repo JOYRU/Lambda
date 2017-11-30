@@ -6,6 +6,10 @@ public class LAmdaDemo {
 		Mynum mynum ; 
 		
 		mynum = (n) ->(n%2)==0 ; 
+			
+			
+			
+		
 		
 		
 		System.out.println(mynum.getValue(10)) ;
